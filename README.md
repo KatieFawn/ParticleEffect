@@ -20,7 +20,7 @@ This plugin will add various effects and particles to the game around the player
 
 # Config file
 
-Вы можете указать силу каждого эффекта в конфигурации
+You can specify the strength of each effect in the configuration.
 
 # Permissions
 
