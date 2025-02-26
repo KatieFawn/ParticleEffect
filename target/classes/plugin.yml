@@ -1,0 +1,8 @@
+name: ParticleEffect
+main: me.muawb.effect.Main
+version: 1.0.0
+
+commands:
+   pe:
+      description: Info about effect
+      usage: /pe
